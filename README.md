@@ -1,6 +1,9 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 [DEMO VERSION  @Spotify_downloa_bot ](https://t.me/Spotify_downloa_bot)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/synaxxkhushi/Spotify-Downloader)
+
 ### IS THIS STILL MAINTAINING?
 > Yes ,this repository is still maintained and will be adding new feature's also
 ### WHY AUDIO FILES ARE NOT SENDING?
